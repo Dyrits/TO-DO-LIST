@@ -4,7 +4,6 @@ To-Do List is an application for Android to manage tasks (and other things) to d
 ## Table of contents
 - [Related content](#related-content)
 - [General information](#general-information)
-- [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Demonstration](#demonstration)
