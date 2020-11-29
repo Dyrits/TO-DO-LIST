@@ -23,7 +23,7 @@ Content: Project Bootcamp
 ## General information
 To-Do List is an application for Android to manage tasks (and other things) to do. 
 
-## Technologies
+## Technologies and tools
 - Android Studio (Minimum SDK Version: 26)
 - Kotlin (1.4.2)
 - Gradle (6.5)
