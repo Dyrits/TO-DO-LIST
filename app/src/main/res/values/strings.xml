@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="welcome_message">Welcome to Dylan\'s To-Do List</string>
+    <string name="add_symbol">+</string>
+    <string name="add_item_et_hint">Enter To-Do~</string>
+    <string name="is_urgent">Urgent?</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
