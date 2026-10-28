@@ -1,71 +1,39 @@
 # To-Do List
+
+An Android application to manage tasks (and other things) to do, built with Kotlin.
+
+## About The Project
+
 To-Do List is an application for Android to manage tasks (and other things) to do.
 
-## Table of contents
-- [Related content](#related-content)
-- [General information](#general-information)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Demonstration](#demonstration)
-- [Status](#status)
-  - [Features](#features)
-  - [Issues](#issues)
-  - [Changelog](#changelog)
-  - [To-do](#to-do)
-- [Contributing](#contributing)
-- [Contact](#contact)
+### Course
 
-## Related content
-Website: [Pirple](https://www.pirple.com/)  
-Course: Android 101  
-Content: Project Bootcamp
+Pirple - Android 101 (Project Bootcamp)
 
-## General information
-To-Do List is an application for Android to manage tasks (and other things) to do. 
+### Built With
 
-## Technologies and tools
-- Android Studio (Minimum SDK Version: 26)
-- Kotlin (1.4.2)
-- Gradle (6.5)
+- Android Studio (minimum SDK version: 26)
+- Kotlin 1.4.2
+- Gradle 6.5
 
-## Installation
-*Describe how to install and setup the environement.*
+## Getting Started
 
-## Demonstration
-No demonstration currently available.
+Open the project in Android Studio and run it on an emulator or device with SDK 26 or higher.
 
 ## Status
-Development in progress (0.1.2) started the 29/11/2020.
 
-### Features
-*Work in progress~*
+Development in progress (0.1.2, per the original README).
 
-### Issues
-No issue have been identified at the moment.
+The following notes are from the original README:
 
-### Changelog
-*Keep an history of the changes made for each version of the project.*
-<details markdown="block">
-<summary>Version 0.1.2 (29/11/2020)</summary>
-- Layout Pages
-
-2 activities (MainActivity and AddItemActivity) and their corresponding layouts have been created.
-</details>
-
-### To-do
-- Activity Connections
-- Custom Item Views
-- Custom Adapters
-- Custom To-Do Objects
-- On Click Listeners
-- Database Schema
-- Database Functions
-- Layout Modifications
-- Backend Modifications
+- No issues had been identified at the time.
+- Changelog - version 0.1.2 (29/11/2020), layout pages: two activities (MainActivity and AddItemActivity) and their corresponding layouts were created.
+- Planned to-do: activity connections, custom item views, custom adapters, custom to-do objects, on-click listeners, database schema, database functions, layout modifications, backend modifications.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate (if any).
 
-## Contact
-Created by [Dylan J. Gerrits](https://github.com/Dyrits).
+Per the original README: pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate (if any).
+
+## License
+
+No license file is present in this repository.
